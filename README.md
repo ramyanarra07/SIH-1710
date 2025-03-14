@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:14-03-2025
+## Register Number:212223040128
+## Name:NARRA RAMYA
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
@@ -11,16 +11,31 @@ Background: Railway stations are complex environments with numerous facilities a
 Ministry of Railway
 
 ## Idea
+Real-Time Station Navigation: Use AI-based geolocation and mapping services to provide real-time indoor navigation within railway stations, helping passengers locate facilities like ticket counters, platforms, restrooms, and waiting areas.
+Voice-Guided Assistance: Implement voice-guided navigation for differently-abled passengers, ensuring accessibility for visually impaired individuals.
+Live Train & Platform Updates: Provide live updates on train schedules, platform changes, and announcements through a mobile app and digital kiosks.
+User Feedback System: Enable passengers to provide real-time feedback on station facilities and navigation quality to improve the system continuously.
+Integration with Railway Services: Seamless integration with railway networks for ticket booking, emergency services, and station authority communication.
 
 
 ## Proposed Solution / Architecture Diagram
+![WhatsApp Image 2025-03-14 at 13 42 06_9086c812](https://github.com/user-attachments/assets/44847277-1c55-4489-929b-6d3acdd84ae3)
 
 
 ## Use Cases
-
+![image](https://github.com/user-attachments/assets/e62cd6f6-ddc5-4ae1-9af7-f6404496883a)
 
 ## Technology Stack
+Backend: AWS, Firebase, PostgreSQL, WebSocket, MQTT
+Navigation & Mapping: Mapbox, OpenStreetMap, Google Maps SDK
+Voice Assistance: Google Speech API, iOS Speech API
+Analytics & ML: Google Analytics, TensorFlow, PyTorch
+Augmented Reality (AR) Development
 
 
 ## Dependencies
+Hardware Dependencies
+Software Dependencies
+Data Dependencies
+security Dependencies
 
