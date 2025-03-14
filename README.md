@@ -12,9 +12,13 @@ Ministry of Railway
 
 ## Idea
 Real-Time Station Navigation: Use AI-based geolocation and mapping services to provide real-time indoor navigation within railway stations, helping passengers locate facilities like ticket counters, platforms, restrooms, and waiting areas.
+
 Voice-Guided Assistance: Implement voice-guided navigation for differently-abled passengers, ensuring accessibility for visually impaired individuals.
+
 Live Train & Platform Updates: Provide live updates on train schedules, platform changes, and announcements through a mobile app and digital kiosks.
+
 User Feedback System: Enable passengers to provide real-time feedback on station facilities and navigation quality to improve the system continuously.
+
 Integration with Railway Services: Seamless integration with railway networks for ticket booking, emergency services, and station authority communication.
 
 
@@ -27,15 +31,22 @@ Integration with Railway Services: Seamless integration with railway networks fo
 
 ## Technology Stack
 Backend: AWS, Firebase, PostgreSQL, WebSocket, MQTT
+
 Navigation & Mapping: Mapbox, OpenStreetMap, Google Maps SDK
+
 Voice Assistance: Google Speech API, iOS Speech API
+
 Analytics & ML: Google Analytics, TensorFlow, PyTorch
+
 Augmented Reality (AR) Development
 
 
 ## Dependencies
 Hardware Dependencies
+
 Software Dependencies
+
 Data Dependencies
+
 security Dependencies
 
